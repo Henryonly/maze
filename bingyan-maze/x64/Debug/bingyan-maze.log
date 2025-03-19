@@ -1,0 +1,7 @@
+﻿  bingyan-maze.cpp
+C:\Users\lenovo\Desktop\bingyan-maze\bingyan-maze\bingyan-maze.cpp(73,9): warning C4005: “VK_ESCAPE”: 宏重定义
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(508,9):
+      参见“VK_ESCAPE”的前一个定义
+  
+C:\Users\lenovo\Desktop\bingyan-maze\bingyan-maze\bingyan-maze.cpp(75,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  bingyan-maze.vcxproj -> C:\Users\lenovo\Desktop\bingyan-maze\x64\Debug\bingyan-maze.exe
